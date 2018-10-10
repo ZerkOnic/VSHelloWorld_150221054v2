@@ -15,7 +15,7 @@ namespace VSHelloWorld_150221054v2
         public static void Main(string[] args)
         {
             //Comment teste
-            //novo comment
+            //novo comentario
             BuildWebHost(args).Run();
         }
 
